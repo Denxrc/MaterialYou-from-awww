@@ -67,7 +67,7 @@ pip3 install pywal16
 Install and run "MaterialYou from awww" | Установите и запустите "MaterialYou from awww
 
 ```bash
-git clone https://github.com/Denxak777/MaterialYou-from-awww.git
+git clone https://github.com/Denxrc/MaterialYou-from-awww.git
 cd MaterialYou-from-awww
 ./main.py
 ```
